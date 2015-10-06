@@ -9,4 +9,4 @@
 
 ## <a href="https://github.com/toyomotoworks/list_toyomoto/blob/master/github.md" target="_blank">GitHubへのリンク</a>
 
-## <a href="tools.md" target="_blank">HTML&CSSで使用するツール等に関する情報</a>
+## <a href="https://github.com/toyomotoworks/list_toyomoto/blob/master/tools.md" target="_blank">HTML&CSSで使用するツール等に関する情報</a>
